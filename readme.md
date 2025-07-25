@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dicas de React Native</title>
   </head>
-
       <h1>Dicas de React Native</h1>
       <h2>Instalação dos pacotes do projeto</h2>
       <h3>Usando o EXPO:</h3>
@@ -50,5 +49,4 @@
       <li>node_modules/: pacotes instalados</li>
       <li>.gitignore, babel.config.js: arquivos de configuração</li>
 
-  </body>
 </html>
