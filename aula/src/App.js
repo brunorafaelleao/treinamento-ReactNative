@@ -1,11 +1,16 @@
+import React from "react";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
+import Primeiro01 from "./components/Primeiro01";
+import Multi from "./components/Multi";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Vamos testar a aplicação usando o React Native</Text>
-      <Text>O arquivo App.js foi criado</Text>
+      <Text>COFAP é bom</Text>
+      <Text>O Rafa gosta do COFAP e muito</Text>
+      <Primeiro01 />
+      <Multi />
       <StatusBar style="auto" />
     </View>
   );
